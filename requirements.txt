@@ -4,3 +4,6 @@ pandas
 matplotlib
 scikit-learn
 kagglehub
+ucimlrepo
+networkx
+pgmpy
